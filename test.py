@@ -13,3 +13,5 @@ secrets = 'oi3DeoirPO11^'
 
 
 secrets = 'IUY9qtrd3i3DeoirPO11^'
+
+password = 'o32y59yKpdi11^'
